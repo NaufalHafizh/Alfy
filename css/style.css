@@ -1,20 +1,38 @@
-#jumbo{
+#about {
 
-    margin-top: 6rem;
+    padding-top: 12rem;
+    padding-bottom: 10rem;
 }
 
-#arrow{
+#softskill {
 
-    margin-bottom: 4rem;
-    margin-top: 4rem;
+    padding-top: 5rem;
+    padding-bottom: 10rem;
 }
 
-#about{
+#tool {
 
-    margin-bottom: 10rem;
+    padding-top: 5rem;
+    padding-bottom: 10rem;
 }
 
-#findme{
+#certificates {
 
-    margin-top: 4rem;
+    padding-top: 5rem;
+}
+
+#certificates-card {
+
+    padding-top: 5rem;
+    padding-bottom: 6rem;
+}
+
+.carousel-indicators {
+
+    top: 350px;
+}
+
+#copyright {
+
+    padding-top: 6rem;
 }
